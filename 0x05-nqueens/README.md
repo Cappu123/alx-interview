@@ -22,7 +22,7 @@ By studying these concepts and utillizing the resources provided, you will be eq
 ## Tasks
 ### 0. N queens
 ![Judit Polgar](http://www.crestbook.com/files/Judit-photo1_602x433.jpg)</br>
-<figcaption>Chess grandmaster [Judit Polgar](https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r), the strongest female chess player of all time</figcaption>
+<small>Chess grandmaster [Judit Polgar](https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r), the strongest female chess player of all time</small>
 
 The N queens puzzle is the challenge of placing N non-attacking queens on an NxN chessboard. Write a program that solves the N queens problem
 
